@@ -15,6 +15,9 @@ class HaveViewController: UIViewController {
         
         self.title = "急急急"
 
+        
+        self.view.backgroundColor = UIColor.blackColor()
+        
         // Do any additional setup after loading the view.
     }
 
